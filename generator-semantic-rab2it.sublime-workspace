@@ -1,0 +1,325 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"link",
+				"link	link - stylesheet"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"back",
+				"background-size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 60.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"open",
+				"PackageResourceViewer: Open Resource"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)  "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/albert/Project/web/generator-semantic-rab2it-test/Gruntfile.js",
+		"/home/albert/Project/web/generator-semantic-rab2it/app/templates/_Gruntfile.js",
+		"/home/albert/Project/web/generator-semantic-rab2it/app/templates/_index.html",
+		"/home/albert/Project/web/generator-semantic-rab2it/app/index.js",
+		"/home/albert/Project/web/test/app/index.html",
+		"/home/albert/Project/web/test/Gruntfile.js",
+		"/home/albert/Project/web/generator-semantic-rab2it-test/app/index.html",
+		"/home/albert/Project/web/generator-semantic-rab2it-test/dist/index.html",
+		"/home/albert/Project/web/test/package.json",
+		"/home/albert/Project/web/generator-semantic-rab2it-test/package.json",
+		"/home/albert/Project/web/generator-semantic-rab2it/app/templates/_package.json",
+		"/home/albert/Project/web/generator-semantic-rab2it/app/templates/bower.json",
+		"/home/albert/Project/web/generator-semantic-rab2it-test/ls",
+		"/home/albert/Project/web/generator-semantic-rab2it/package.json",
+		"/home/albert/Project/web/generator-semantic-rab2it/app/templates/_bower.json",
+		"/home/albert/Project/web/generator-semantic-rab2it/app/templates/css/style.css",
+		"/home/albert/Project/web/generator-semantic-rab2it/app/templates/scss/style.scss",
+		"/home/albert/Project/web/generator-semantic-rab2it/app/templates/bower_components/semantic/rtl/packaged/css/semantic.css",
+		"/home/albert/Project/web/generator-semantic-rab2it/generator-semantic-rab2it.sublime-project",
+		"/home/albert/Project/web/generator-semantic-rab2it/.travis.yml",
+		"/home/albert/Project/web/generator-semantic-rab2it/app/templates/Gruntfile.js",
+		"/home/albert/Project/web/generator-sematic-rab2it/app/templates/package.json",
+		"/home/albert/Project/web/generator-sematic-rab2it/app/templates/_index.html",
+		"/home/albert/Project/web/generator-sematic-rab2it/app/templates/scss/style.scss",
+		"/home/albert/Project/web/generator-sematic-rab2it/app/templates/_bower.json",
+		"/home/albert/Project/web/generator-sematic-rab2it/README.md",
+		"/home/albert/Project/web/temp/generator-semantic-rab2it/README.md",
+		"/home/albert/Project/web/generator-sematic-rab2it/generator-semantic-rab2it.sublime-project",
+		"/home/albert/Project/web/generator-sematic-rab2it/package.json",
+		"/home/albert/Project/web/temp/generator-temp/README.md",
+		"/home/albert/Project/web/generator-sematic-rab2it/generator-sematic-rab2it.sublime-project",
+		"/home/albert/Project/web/generator-sematic-rab2it/LICENSE",
+		"/home/albert/Project/generator-foundation5-rab2it/app/templates/_gruntfile.js",
+		"/home/albert/Project/generator-foundation5-rab2it/app/templates/_package.json",
+		"/home/albert/Project/generator-foundation5-rab2it/app/index.js",
+		"/home/albert/Project/generator-foundation5-rab2it/package.json",
+		"/home/albert/Project/generator-foundation5-rab2it/app/templates/_section.css",
+		"/home/albert/Project/generator-foundation5-rab2it/app/templates/_section.html",
+		"/home/albert/Project/generator-foundation5-rab2it/app/templates/_main.css",
+		"/home/albert/Project/generator-foundation5-rab2it/app/templates/_menu.html",
+		"/home/albert/Project/generator-foundation5-rab2it/app/templates/_header.html",
+		"/home/albert/Project/generator-foundation5-rab2it/app/templates/_footer.html",
+		"/home/albert/Project/node/httpFileServer/httpClient.js",
+		"/home/albert/Project/node/tcpServer/tcpClientDownload.js",
+		"/home/albert/Project/node/httpFileServer/fileServer.js",
+		"/home/albert/Project/node/tcpServer/tcpServer.js",
+		"/home/albert/Project/node/tcpServer/tcpClientUpload.js",
+		"/home/albert/Project/node/tcpServer/uploaded.mp3",
+		"/home/albert/Project/node/tcpServer/downloaded.mp3",
+		"/home/albert/Project/node/tcpServer/tcpClient.js",
+		"/home/albert/Project/wp-themes/baseball/scss/_content.scss",
+		"/home/albert/Project/wp-themes/baseball/scss/_wp-base.scss",
+		"/home/albert/Project/wp-themes/baseball/js/scripts.js",
+		"/home/albert/Project/node/tcpClient/tcpClient.js",
+		"/home/albert/Project/node/tcpServer/fileServer.js",
+		"/home/albert/server.js",
+		"/var/run/vmblock-fuse/blockdir/8182c20d/stm32f4xx_flash_sdram.icf",
+		"/home/albert/Project/wp-themes/baseball/archive.php",
+		"/home/albert/Project/wp-themes/baseball/page.php",
+		"/home/albert/Project/wp-themes/baseball/scss/_components.scss",
+		"/home/albert/Project/wp-themes/baseball/scss/_header.scss",
+		"/home/albert/Project/wp-themes/baseball/functions.php",
+		"/home/albert/Project/wp-themes/baseball/scss/_base.scss",
+		"/home/albert/Project/wp-themes/baseball/search.php",
+		"/home/albert/Project/wp-themes/baseball/js/sticky.js",
+		"/home/albert/Project/wp-themes/baseball/single.php",
+		"/home/albert/Project/wp-themes/baseball/front-page.php",
+		"/home/albert/Project/wp-themes/baseball/searchform.php",
+		"/home/albert/Project/wp-themes/baseball/scss/_typography.scss",
+		"/opt/lampp/htdocs/wordpress/wp-includes/category-template.php",
+		"/var/run/vmblock-fuse/blockdir/118a78df/streaming.patch",
+		"/var/run/vmblock-fuse/blockdir/db5367ee/streaming.patch",
+		"/opt/lampp/htdocs/wordpress/wp-includes/default-widgets.php",
+		"/home/albert/Project/wp-themes/baseball/scss/_post-formats.scss",
+		"/home/albert/Project/wp-themes/baseball/comments.php",
+		"/home/albert/Project/wp-themes/baseball/loop.php",
+		"/home/albert/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/albert/tmp.c",
+		"/home/albert/test.c",
+		"/var/run/vmblock-fuse/blockdir/83be909d/Project.bin",
+		"/var/run/vmblock-fuse/blockdir/ce430d75/Project.hex",
+		"/home/albert/Project/remotecare/bower.json",
+		"/home/albert/Project/remotecare/contributors.txt",
+		"/home/albert/.config/sublime-text-3/Packages/Theme - Default/Default.sublime-theme",
+		"/home/albert/Project/remotecare/app/scripts/app.coffee",
+		"/home/albert/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/Default (Linux).sublime-keymap",
+		"/home/albert/Project/remotecare/app/views/main.html",
+		"/home/albert/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/albert/Project/remotecare/.bowerrc",
+		"/home/albert/Project/remotecare/Gruntfile.js",
+		"/var/run/vmblock-fuse/blockdir/bfd297d7/jpg.txt",
+		"/home/albert/Documents/wordpress/png.txt",
+		"/home/albert/Documents/wordpress/jpg.txt"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"font",
+			"wiredep",
+			"concat",
+			"htmlmin",
+			"autoprefixer",
+			"uglify",
+			"usemin",
+			"cssmin",
+			"cdnify",
+			"concat",
+			"useminPrepare",
+			"wiredep",
+			"compass",
+			"wiredep",
+			"bower",
+			"playground",
+			"promptForConfiguration",
+			"PlaygroundGenerator",
+			"sematic",
+			"playground",
+			"rhumaric",
+			"playground",
+			"Foundation5Rab2itGenerator",
+			"box-sha",
+			"left",
+			"mmsh_fetch",
+			"transform",
+			"max-height",
+			";",
+			" ease-out",
+			"in",
+			"200ms",
+			"height",
+			"Walker_Category",
+			"walk",
+			"walk_category_tree",
+			"wp_list_categories",
+			"WP_Widget_Categories",
+			"Widget_Categor",
+			"category",
+			"float"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.486678956889,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "generator-semantic-rab2it.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 261.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

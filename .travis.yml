@@ -1,0 +1,7 @@
+language: node_js
+node_js:
+  - '0.10'
+before_install:
+  - currentfolder=${PWD##*/}
+  - if [ "$currentfolder" != 'generator-semantic-rab2it' ]; then cd .. && eval "mv $currentfolder generator-semantic-rab2it" && cd generator-semantic-rab2it; fi
+
