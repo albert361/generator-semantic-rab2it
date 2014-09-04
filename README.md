@@ -1,6 +1,6 @@
 # generator-semantic-rab2it [![Build Status](https://secure.travis-ci.org/albert361/generator-semantic-rab2it.png?branch=master)](https://travis-ci.org/albert361/generator-semantic-rab2it)
 
-> [Yeoman](http://yeoman.io) generator
+> [Yeoman](http://yeoman.io) generator for webapp using Semantic-UI.
 
 
 ## Getting Started
