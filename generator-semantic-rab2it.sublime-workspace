@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"bower",
+				"bower_components"
+			],
+			[
 				"link",
 				"link	link - stylesheet"
 			],
@@ -23,6 +27,41 @@
 	},
 	"buffers":
 	[
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n\n<head>\n    <meta charset=\"utf-8\" />\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\" />\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0\">\n    <title>Page Title Here</title>\n    <!-- build:css(.) styles/vendor.css -->\n    <!-- bower:css -->\n    <link rel=\"stylesheet\" href=\"bower_components/normalize.css/normalize.css\" />\n    <!-- endbower -->\n    <link rel=\"stylesheet\" href=\"bower_components/semantic/build/packaged/css/semantic.css\">\n    <!-- endbuild -->\n    <!-- build:css(.tmp) styles/style.css -->\n    <link rel=\"stylesheet\" href=\"styles/style.css\" />\n    <!-- endbuild -->\n    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700|Open+Sans:300italic,400,300,700' rel='stylesheet' type='text/css'>\n</head>\n\n<body>\n\n    <div class=\"ui fixed inverted main menu\">\n        <div class=\"container\">\n            <a class=\"launch item\"><i class=\"icon list layout\"></i> Menu</a>\n            <!-- <a class=\"launch item active\"><i class=\"icon list layout\"></i> Menu</a> -->\n            <div class=\"title item\">\n                <b>Main:</b> Index\n            </div>\n\n            <a class=\"icon item\" href=\"#\"><i class=\"left arrow icon\"></i></a>\n\n            <div class=\"ui pointing dropdown link item\">\n                <i class=\"icon mail\"></i> Messages <i class=\"dropdown icon\"></i>\n                <div class=\"menu\">\n                    <a class=\"item\"><i class=\"mail icon\"></i>Inbox</a>\n                    <a class=\"item\"><i class=\"book icon\"></i>Archive</a>\n                </div>\n            </div>\n\n            <a class=\"icon item\" href=\"#\"><i class=\"right arrow icon\"></i></a>\n\n            <div class=\"right menu\">\n                <a class=\"popup designer icon item\" data-content=\"Designer Mode\">\n                    <i class=\"basic paint icon\"></i>\n                </a>\n                <a class=\"popup developer icon item\" data-content=\"Developer Mode\">\n                    <i class=\"terminal icon\"></i>\n                </a>\n            </div>\n        </div>\n    </div>\n\n    <div class=\"\">\n        \n    </div>\n\n    <!-- build:js(.) scripts/vendor.js -->\n    <!-- bower:js -->\n    <script src=\"bower_components/jquery/dist/jquery.js\"></script>\n    <script src=\"bower_components/underscore/underscore.js\"></script>\n    <!-- endbower -->\n    <script src=\"bower_components/semantic/build/packaged/javascript/semantic.js\"></script>\n    <!-- endbuild -->\n\n    <!-- build:js({.tmp,app}) scripts/script.js -->\n    <script src=\"scripts/script.js\"></script>\n    <script src=\"scripts/ui-init.js\"></script>\n    <!-- endbuild -->\n</body>\n\n</html>\n",
+			"file": "/home/albert/Project/web/generator-semantic-rab2it-test/app/index.html",
+			"file_size": 2611,
+			"file_write_time": 130543710814117817,
+			"settings":
+			{
+				"buffer_size": 2645,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/albert/Project/web/generator-semantic-rab2it-test/Gruntfile.js",
+			"settings":
+			{
+				"buffer_size": 10860,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/albert/Project/web/generator-semantic-rab2it-test/app/scripts/script.js",
+			"settings":
+			{
+				"buffer_size": 73,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/albert/Project/web/generator-semantic-rab2it-test/app/scripts/ui-init.js",
+			"settings":
+			{
+				"buffer_size": 274,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -58,23 +97,41 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/home/albert/Project/web/generator-semantic-rab2it",
+		"/home/albert/Project/web/generator-semantic-rab2it/app",
+		"/home/albert/Project/web/generator-semantic-rab2it/app/templates"
+	],
 	"file_history":
 	[
-		"/home/albert/Project/web/generator-semantic-rab2it-test/Gruntfile.js",
+		"/home/albert/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/albert/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
 		"/home/albert/Project/web/generator-semantic-rab2it/app/templates/_Gruntfile.js",
+		"/home/albert/Project/web/generator-semantic-rab2it-test/bower_components/semantic/build/examples/homepage.html",
+		"/home/albert/Project/web/generator-semantic-rab2it-test/bower_components/semantic/build/examples/homepage.js",
+		"/home/albert/Project/web/generator-semantic-rab2it-test/bower_components/semantic/build/examples/homepage.css",
+		"/home/albert/Project/web/generator-semantic-rab2it/app/templates/bower.json",
+		"/home/albert/Project/web/generator-semantic-rab2it/app/templates/_bower.json",
 		"/home/albert/Project/web/generator-semantic-rab2it/app/templates/_index.html",
+		"/home/albert/Project/web/generator-semantic-rab2it-test/app/index.html",
+		"/home/albert/Project/web/generator-semantic-rab2it-test/Gruntfile.js",
+		"/home/albert/Project/web/generator-semantic-rab2it/package.json",
+		"/home/albert/Project/web/test/Gruntfile.js",
+		"/home/albert/Project/web/generator-semantic-rab2it-test/dist/index.html",
+		"/home/albert/Project/web/generator-semantic-rab2it-test/dist/scripts/vendor.6be71972.js",
+		"/home/albert/Project/web/generator-semantic-rab2it-test/dist/styles/vendor.dc3c56b4.css",
+		"/home/albert/Project/web/generator-semantic-rab2it-test/bower_components/semantic/build/packaged/javascript/semantic.min.js",
+		"/home/albert/Project/web/generator-semantic-rab2it/app/templates/styles/style.scss",
+		"/home/albert/Project/web/generator-semantic-rab2it-test/app/styles/style.scss",
+		"/home/albert/Project/web/generator-semantic-rab2it/app/templates/scripts/script.js",
+		"/home/albert/Project/web/generator-semantic-rab2it-test/dist/scripts/scripts.d41d8cd9.js",
 		"/home/albert/Project/web/generator-semantic-rab2it/app/index.js",
 		"/home/albert/Project/web/test/app/index.html",
-		"/home/albert/Project/web/test/Gruntfile.js",
-		"/home/albert/Project/web/generator-semantic-rab2it-test/app/index.html",
-		"/home/albert/Project/web/generator-semantic-rab2it-test/dist/index.html",
 		"/home/albert/Project/web/test/package.json",
 		"/home/albert/Project/web/generator-semantic-rab2it-test/package.json",
 		"/home/albert/Project/web/generator-semantic-rab2it/app/templates/_package.json",
-		"/home/albert/Project/web/generator-semantic-rab2it/app/templates/bower.json",
 		"/home/albert/Project/web/generator-semantic-rab2it-test/ls",
-		"/home/albert/Project/web/generator-semantic-rab2it/package.json",
-		"/home/albert/Project/web/generator-semantic-rab2it/app/templates/_bower.json",
 		"/home/albert/Project/web/generator-semantic-rab2it/app/templates/css/style.css",
 		"/home/albert/Project/web/generator-semantic-rab2it/app/templates/scss/style.scss",
 		"/home/albert/Project/web/generator-semantic-rab2it/app/templates/bower_components/semantic/rtl/packaged/css/semantic.css",
@@ -136,7 +193,6 @@
 		"/home/albert/Project/wp-themes/baseball/scss/_post-formats.scss",
 		"/home/albert/Project/wp-themes/baseball/comments.php",
 		"/home/albert/Project/wp-themes/baseball/loop.php",
-		"/home/albert/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
 		"/home/albert/tmp.c",
 		"/home/albert/test.c",
 		"/var/run/vmblock-fuse/blockdir/83be909d/Project.bin",
@@ -170,6 +226,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"watch",
+			"clean",
+			"connect",
 			"font",
 			"wiredep",
 			"concat",
@@ -228,13 +287,125 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
-			]
-		},
-		{
-			"sheets":
-			[
+				{
+					"buffer": 0,
+					"file": "/home/albert/Project/web/generator-semantic-rab2it-test/app/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2645,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1344,
+								1344
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 547.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/albert/Project/web/generator-semantic-rab2it-test/Gruntfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10860,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8053,
+								8053
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 4473.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/albert/Project/web/generator-semantic-rab2it-test/app/scripts/script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 73,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								72,
+								72
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/albert/Project/web/generator-semantic-rab2it-test/app/scripts/ui-init.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 274,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								274,
+								274
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -255,18 +426,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.486678956889,
 			1.0
 		],
 		"rows":
@@ -310,6 +474,7 @@
 		],
 		"width": 0.0
 	},
+	"selected_group": 0,
 	"settings":
 	{
 	},
@@ -317,7 +482,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 261.0,
+	"side_bar_width": 322.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
