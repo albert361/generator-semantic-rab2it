@@ -28,6 +28,13 @@
     "semantic": "~0.19.0",
     "normalize.css": "~3.0.1",
     "underscore": "~1.7.0",
-    "components-font-awesome": "~4.2.0"
+    "components-font-awesome": "~4.2.0",
+    "angular": "~1.2.24",
+    "angular-resource": "~1.2.24",
+    "angular-cookies": "~1.2.24",
+    "angular-sanitize": "~1.2.24",
+    "angular-animate": "~1.2.24",
+    "angular-touch": "~1.2.24",
+    "angular-route": "~1.2.24"
   }
 }
