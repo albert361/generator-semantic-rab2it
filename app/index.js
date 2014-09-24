@@ -43,6 +43,8 @@ var SemanticRab2itGenerator = yeoman.generators.Base.extend({
             this.src.copy('_bower.json', 'bower.json');
             this.src.copy('_index.html', 'app/index.html');
             this.src.copy('styles/style.scss', 'app/styles/style.scss');
+            this.src.copy('styles/grid-settings.scss', 'app/styles/grid-settings.scss');
+            this.src.copy('scripts/script.js', 'app/scripts/script.js');
             this.src.copy('_Gruntfile.js', 'Gruntfile.js');
 
             /*

@@ -1,0 +1,19 @@
+@import "grid-settings";
+
+$left-menu-width:200px;
+
+.site {
+    padding: 0 1.5% !important;
+}
+
+.left-menu {
+    width: $left-menu-width;
+    position: absolute;
+}
+.main-content {
+    // @include breakpoint($medium) {
+    //@include media($medium) {
+    @media #{$computer} {
+        padding-left: $left-menu-width + 10px !important;
+    }
+}
